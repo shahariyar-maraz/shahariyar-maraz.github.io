@@ -3,14 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Abdul Monaf
+first_name: Shahariyar
 middle_name:
-last_name: Chowdhury
-email: monafabdul15@gmail.com
+last_name: Maraz
+email: shahariyarrme@gmail.com
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A student of University of Dhaka, focusing on Multi-modal Learning
+  A student of University of Dhaka, focusing on wearbles for biomedical devices.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -19,7 +19,7 @@ keywords: CV, NLP, RL
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://monaf-chowdhury.github.io # the base hostname & protocol for your site
+url: https://shahariyar-maraz.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -63,11 +63,11 @@ max_width: 930px
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: monaf-chowdhury
+github_username: shahariyar-maraz
 gitlab_username: # your GitLab user name
-x_username: monaf_chowdhury
+x_username: shahariyar-maraz
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: monaf-chowdhury
+linkedin_username: shahariyar-maraz
 telegram_username: # your Telegram user name
 scholar_userid: LBoyI9cAAAAJ
 semanticscholar_id: #
