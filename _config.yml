@@ -67,12 +67,12 @@ github_username: shahariyar-maraz
 gitlab_username: # your GitLab user name
 x_username: shahariyar-maraz
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: shahariyar-maraz
+linkedin_username: Shahariyar Maraz
 telegram_username: # your Telegram user name
 scholar_userid: LBoyI9cAAAAJ
 semanticscholar_id: #
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+whatsapp_number: +8801303-719172 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+orcid_id: 0009-0000-4394-2186 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -93,7 +93,7 @@ spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
-facebook_id: # your facebook id
+facebook_id: Shahariyar Maraz Pavel # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
@@ -310,8 +310,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Chowdhury]
-  first_name: [Abdul Monaf]
+  last_name: [Maraz]
+  first_name: [Shahariyar]
 
   style: apa
   locale: en
