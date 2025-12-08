@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: shahariyar
-middle_name: Pavel
+middle_name:
 last_name: Maraz
 email: shahariyarrme@gmail.com
 contact_note: >
@@ -65,7 +65,7 @@ max_width: 930px
 
 github_username: shahariyar-maraz
 gitlab_username: # your GitLab user name
-x_username: mshahariyar-maraz
+x_username: shahariyar-maraz
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: shahariyar-maraz
 telegram_username: # your Telegram user name
