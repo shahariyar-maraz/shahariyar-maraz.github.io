@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: IoT Developer @ <a href='https://www.maimlab.com/'>ACI PLC, Bangladesh</a> <br> Research Assistant @ <a href='https://www.maimlab.com/'>University of Dhaka, Bangladesh</a> <br> CS PhD Aspirant
-# <a href='https://www.aci-bd.com/'>
+subtitle: IoT Developer @ <a href='https://www.aci-bd.com/'>ACI PLC, Bangladesh</a> <br> Research Assistant @ <a href='https://www.maimlab.com/'>University of Dhaka, Bangladesh</a> <br> CS PhD Aspirant
 
 profile:
   align: right
