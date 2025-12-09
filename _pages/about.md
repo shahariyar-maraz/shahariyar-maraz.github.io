@@ -24,7 +24,16 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Assistant at the [MAIM Lab](https://www.maimlab.com/) of Robotics & Mechatronics Engineering in the University of Dhaka, Bangladesh. Currently, I am working on a [Wellcome Leap - In Utero](https://wellcomeleap.org/inutero/) funded project (Title: Translation of a Wearable Fetal Movement Monitor towards Stillbirth Prevention), under the supervision of [Dr. Abhishek Kumar Ghosh](https://www.du.ac.bd/faculty/faculty_details/RME/2318) and [Dr. Niamh Nowlan](https://people.ucd.ie/niamh.nowlan) to develop a wearable device to monitor fetal movements to cut stillbirth rates.
+
+<!-- I am an IoT Developer at Advanced Chemical Industries Limited (ACI PLC) and a Research Assistant at the MAIM Lab, Department of Robotics & Mechatronics Engineering, University of Dhaka, Bangladesh. I am currently working on a Wellcome Leap – In Utero funded project titled “Translation of a Wearable Fetal Movement Monitor towards Stillbirth Prevention.” Under the supervision of Dr. Abhishek Kumar Ghosh and Dr. Niamh Nowlan, my work focuses on developing a wearable device to monitor fetal movements with the goal of reducing stillbirth rates.
+
+Before joining ACI, I worked as a Hardware Engineer at Datasoft Manufacturing & Assembly Inc. and as an Embedded Systems Engineer at Gizantech, contributing to the design, development, and testing of embedded and IoT-enabled systems.
+
+I completed my B.Sc. in Robotics and Mechatronics Engineering from the University of Dhaka in March 2024, supervised by Dr. Md. Mehedi Hasan. My undergraduate thesis, “Automated Medical Bed Navigation System,” focused on developing an intelligent robotic bed capable of autonomous navigation for improved patient care. -->
+
+I am an IoT Developer at Advanced Chemical Industries Limited (ACI PLC) and a Research Assistant at the [MAIM Lab](https://www.maimlab.com/), Department of Robotics & Mechatronics Engineering, University of Dhaka, Bangladesh. I am currently working on a [Wellcome Leap – In Utero](https://wellcomeleap.org/inutero/) funded project titled “Translation of a Wearable Fetal Movement Monitor towards Stillbirth Prevention.” Under the supervision of [Dr. Abhishek Kumar Ghosh](https://www.du.ac.bd/faculty/faculty_details/RME/2318) and [Dr. Niamh Nowlan](https://people.ucd.ie/niamh.nowlan), my work focuses on developing a wearable device to monitor fetal movements with the goal of reducing stillbirth rates.
+
+Before joining ACI, I worked as a Hardware Engineer at Datasoft Manufacturing & Assembly Inc. and as an Embedded Systems Engineer at Gizantech, contributing to the design, development, and testing of embedded and IoT-enabled systems.
 
 Back in March '24, I graduated from the University of Dhaka in Robotics and Mechatronics Engineering, supervised by [Dr. Md Mehedi Hasan](https://www.du.ac.bd/faculty/faculty_details/HSS/4706). My fourth year thesis project was on "Enhancing UAV Based Human Action Recognition: A Deep Learning Approach". [`[Report]`](https://drive.google.com/file/d/1im1cmDKfGHdqRqx8z4r-s_zfVFTyEj2g/view?usp=sharing)
 
