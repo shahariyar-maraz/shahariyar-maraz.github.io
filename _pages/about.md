@@ -38,8 +38,9 @@ Before joining ACI, I worked as a Hardware Engineer at Datasoft Manufacturing & 
 ---
 
 ## **Research Interest**
+I am interested in `Biomedical Engineering, Instrumentation Measurement, and the Internet of Things (IoT)`, with a focus on developing intelligent sensing systems and data-driven biomedical devices. My goal is to create integrated solutions that combine advanced instrumentation with connected technologies to improve real-time health monitoring and contribute to impactful healthcare applications.
 
-I'm interested in `Multi-modal Learning`, especially at the fusion of Vision + Language. Besides, I'm also interested in Computer Vision, Embodied AI, and Reinforcement Learning. Overall, I would like to work on fusing complementary intelligence from multi-modalities with the ambitious goal of positively influencing real-world environments via embodied agents.
+<!-- I'm interested in `Biomedical Engineering, Instrumentation Measurement and Internet of Things`, especially at the fusion of Vision + Language. Besides, I'm also interested in Computer Vision, Embodied AI, and Reinforcement Learning. Overall, I would like to work on fusing complementary intelligence from multi-modalities with the ambitious goal of positively influencing real-world environments via embodied agents. -->
 
 ---
 Recently, I submitted my work on language-guided embodied agents to `ICLR '26`. VLMs were used to generate natural language task feedback for causal reasoning via self-reflection and guide the agents for embodied manipulation tasks. 
