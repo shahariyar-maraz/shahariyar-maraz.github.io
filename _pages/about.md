@@ -43,7 +43,9 @@ I am interested in `Biomedical Engineering, Instrumentation Measurement, and the
 <!-- I'm interested in `Biomedical Engineering, Instrumentation Measurement and Internet of Things`, especially at the fusion of Vision + Language. Besides, I'm also interested in Computer Vision, Embodied AI, and Reinforcement Learning. Overall, I would like to work on fusing complementary intelligence from multi-modalities with the ambitious goal of positively influencing real-world environments via embodied agents. -->
 
 ---
-Recently, I submitted my work on language-guided embodied agents to `ICLR '26`. VLMs were used to generate natural language task feedback for causal reasoning via self-reflection and guide the agents for embodied manipulation tasks. 
-Prior to that, I've also submitted a manuscript to `AAAI '26` on *Time Series Forecasting* using a tri-modal architecture comprising time, spectral and LLM branches.
+Recently, I submitted my work on wearable headband to `IEEE Transactions on Instrumentation and Measurement`. Multimodal mechanomyography and machine learning models were used to design and develop the wearable for detecting eye-blink gestures along with head movements.
+
+<!-- Recently, I submitted my work on language-guided embodied agents to `ICLR '26`. VLMs were used to generate natural language task feedback for causal reasoning via self-reflection and guide the agents for embodied manipulation tasks. 
+Prior to that, I've also submitted a manuscript to `AAAI '26` on *Time Series Forecasting* using a tri-modal architecture comprising time, spectral and LLM branches. -->
 
 I have extensively collaborated on interdisciplinary projects in areas ranging from Machine Learning and Deep learning to Health Informatics and Biomechatronics. My current work revolves around multimodal reasoning for embodied AI, multimodal generation, scene understanding, and vision-language integration.
