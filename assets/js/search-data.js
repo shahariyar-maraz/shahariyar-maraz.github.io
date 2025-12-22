@@ -365,7 +365,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-my-paper-titled-fft-uavnet-fft-based-human-action-recognition-for-drone-surveillance-system-got-accepted-to-the-5th-ieee-international-conference-on-sustainable-technologies-for-industry-5-0-sti-conference",
+            },},{id: "news-graduated-from-university-of-dhaka-bangladesh-with-a-bsc-in-robotics-amp-amp-mechatronics-engineering-report",
+          title: 'Graduated from University of Dhaka, Bangladesh with a BSc. in Robotics &amp;amp;amp; Mechatronics...',
+          description: "",
+          section: "News",},{id: "news-my-paper-titled-fft-uavnet-fft-based-human-action-recognition-for-drone-surveillance-system-got-accepted-to-the-5th-ieee-international-conference-on-sustainable-technologies-for-industry-5-0-sti-conference",
           title: 'My paper titled FFT-UAVNet: FFT Based Human Action Recognition for Drone Surveillance System...',
           description: "",
           section: "News",},{id: "news-attended-and-presented-my-fftuavnet-paper-to-the-5th-ieee-international-conference-on-sustainable-technologies-for-industry-5-0-sti-conference",
@@ -373,9 +376,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-started-working-as-a-research-assistant-at-the-maim-lab-university-of-dhaka-under-the-supervision-of-professor-niamh-nowlan-and-dr-abhishek-kumar-ghosh",
           title: 'Started working as a research assistant at the MAIM Lab, University of Dhaka...',
-          description: "",
-          section: "News",},{id: "news-graduated-from-university-of-dhaka-bangladesh-with-a-bsc-in-robotics-amp-amp-mechatronics-engineering-report",
-          title: 'Graduated from University of Dhaka, Bangladesh with a BSc. in Robotics &amp;amp;amp; Mechatronics...',
           description: "",
           section: "News",},{id: "news-our-work-on-stillbirth-prevention-got-another-year-of-funding-extension-worth-1m-by-wellcome-leap-in-utero",
           title: 'Our work on stillbirth prevention got another year of funding extension worth $1M...',
